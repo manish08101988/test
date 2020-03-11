@@ -9,5 +9,8 @@ namespace WebApplication1.Interfaces
     {
 	//first function
          void GetEmployee();
+
+
+         void GetEmployeeByID(int ID);
     }
 }
