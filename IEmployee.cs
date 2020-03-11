@@ -12,5 +12,7 @@ namespace WebApplication1.Interfaces
 
 		//2nd function
          void GetEmployeeByID(int ID);
+		//3rd function
+  void DeleteEmployeeByID(int ID);
     }
 }
