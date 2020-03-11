@@ -7,6 +7,7 @@ namespace WebApplication1.Interfaces
 {
    public interface IEmployee
     {
+	//first function
          void GetEmployee();
     }
 }
