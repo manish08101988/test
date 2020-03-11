@@ -10,7 +10,7 @@ namespace WebApplication1.Interfaces
 	//first function
          void GetEmployee();
 
-
+		//2nd function
          void GetEmployeeByID(int ID);
     }
 }
